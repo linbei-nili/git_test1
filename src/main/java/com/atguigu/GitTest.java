@@ -16,5 +16,9 @@ public class GitTest {
 
 
         System.out.println("pushtest");
+        
+        
+        System.out.println("pulltest");
+
     }
 }
